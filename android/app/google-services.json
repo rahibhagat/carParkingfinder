@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "749029202725",
+    "firebase_url": "https://locator-ff749.firebaseio.com",
+    "project_id": "locator-ff749",
+    "storage_bucket": "locator-ff749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749029202725:android:3f720bf93c5a0141",
+        "android_client_info": {
+          "package_name": "com.carparkingfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749029202725-mp1u1j3v7p93s7dl60p4i2sa0lbq7sge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvJu1s39pSWy_bChkB0kK7lvspp-4ixXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749029202725-mp1u1j3v7p93s7dl60p4i2sa0lbq7sge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
