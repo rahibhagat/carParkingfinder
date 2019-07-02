@@ -25,7 +25,7 @@ class componentName extends Component {
     render() {
         return (
             <View style={styles.container}>
-                <Text>componentName123</Text>
+                <Text>componentName12345</Text>
             </View>
         );
     }
